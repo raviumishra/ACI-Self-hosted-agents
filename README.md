@@ -22,7 +22,6 @@ And then there’re three different tastes when it come to container agent flavo
 Lastly we wanted to provide some way in which teams can automatically start and stop their container instances so keep the costs of the ACI down since this will be generate cost every second it is running.
 So we’ve ended up with several different pipelines:
 
-![Pipeline_overview](/_readme_images/02_pipelines.png)
 
 # Step-by-step instructions
 Ok now you’ll have a general idea about how this will work and what components are needed, let’s start implementing these -pre-build pipelines and start deploying!
